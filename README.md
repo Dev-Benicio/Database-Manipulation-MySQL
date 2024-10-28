@@ -14,5 +14,5 @@ inserir dados, fazer as manipulações de dados, testar e explicar os comandos.
 ### Caso queira saber um pouco sobre mim ao realizar esse Projeto:
 
 Tinha uns desafios que não era obrigatório ou que pedisse no projeto,
-mas decidi colocar para testar minhas capacidades.Gosto de aprender e me colocar em alguns
+mas decidi colocar para testar minhas capacidades.Gosto de aprender e me colocar em certos
 desafios para testar minhas capacidades e desenvolver minhas habilidades.
