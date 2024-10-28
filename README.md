@@ -7,7 +7,7 @@ Esses script SQL teve o intuito de testar capacidades em criação e manipulaç�
 Durante o projeto, ofereci sugestões valiosas e auxiliei a equipe em dúvidas que surgiram ao longo do trabalho. O objetivo principal foi não só testar nossas habilidades técnicas, mas também promover um ambiente de colaboração e apoio coletivo, o que fortaleceu a união e a eficácia do time.
 
 
-### U pouco sobre mim ao realizar esse Projeto:
+### Um pouco sobre mim ao realizar esse Projeto:
 Tinha uns desafios que não são obrigatórios ou que pedisse no projeto,
 mas decidi colocar para testar minhas capacidades.Gosto de aprender e me colocar em certos
 desafios para testar minhas capacidades e desenvolver minhas habilidades e adquirir novas competências.
