@@ -80,7 +80,10 @@
 	update Autor set nome_do_autor='JBenicio' where idAutor=1;
 
 -- Atualizando os dados da tabela Emprestimo
-begin; -- Testando o bonus
+-- Testando o bonus
+-- Utilização dos comandos Begin, Rollback e o commit
+
+begin; 
 	update Emprestimo set situacao='Entregue' where idEmprestimo=1;
 rollback;
 commit;
