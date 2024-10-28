@@ -6,9 +6,7 @@ Esses Script SQL teve o intuito de testar capacidades em criação e manipulaç�
 Foi um trabalho que buscava que criássemos e explicássemos cada comando.
 
 O Script SQL do Banco de Dados (Database.sql) foi gerado pelo MySQL Workbench,
-atravéz da tabela que as integrantes da minha equipe produziu, 
-através desse script gerado, criei o Banco de Dados Biblioteca e comecei a 
-inserir dados, fazer as manipulações de dados, testar e explicar os comandos.
+atravéz das tabelas que as integrantes da minha equipe produziu.Com esses script gerado, criei o Banco de Dados Biblioteca, comecei as manipulações de dados, testar e explicar os comandos.
 
 
 ### Caso queira saber um pouco sobre mim ao realizar esse Projeto:
