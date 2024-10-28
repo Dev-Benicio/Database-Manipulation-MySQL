@@ -6,5 +6,8 @@ Esses script SQL teve o intuito de testar capacidades em criação e manipulaç�
 ### Colaboração e Interação com a Equipe
 Durante o projeto, ofereci sugestões valiosas e auxiliei a equipe em dúvidas que surgiram ao longo do trabalho. O objetivo principal foi não só testar nossas habilidades técnicas, mas também promover um ambiente de colaboração e apoio coletivo, o que fortaleceu a união e a eficácia do time.
 
-### Sobre Mim
-Gosto de me desafiar e aprender. Mesmo quando os desafios não são obrigatórios ou solicitados, incluo-os para testar e desenvolver minhas capacidades. Minha dedicação ao aprendizado contínuo me permite sempre estar aprimorando minhas habilidades e adquirindo novas competências.
+
+### U pouco sobre mim ao realizar esse Projeto:
+Tinha uns desafios que não são obrigatórios ou que pedisse no projeto,
+mas decidi colocar para testar minhas capacidades.Gosto de aprender e me colocar em certos
+desafios para testar minhas capacidades e desenvolver minhas habilidades e adquirir novas competências.
