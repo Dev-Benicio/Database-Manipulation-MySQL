@@ -8,6 +8,6 @@ Durante o projeto, ofereci sugestões valiosas e auxiliei a equipe em dúvidas q
 
 
 ### Um pouco sobre mim ao realizar esse Projeto:
-Tinha uns desafios que não são obrigatórios ou que pedisse no projeto,
-mas decidi colocar para testar minhas capacidades.Gosto de aprender e me colocar em certos
+Nesse trabalho de SQL tem uns desafios que são não obrigatórios,
+mas decidi colocar para testar minhas capacidades. Gosto de aprender e me colocar em certos
 desafios para testar minhas capacidades e desenvolver minhas habilidades e adquirir novas competências.
